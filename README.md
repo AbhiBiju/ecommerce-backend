@@ -34,7 +34,7 @@ Here is a walk-through video showing the usage process and outlines the backend 
 
 `link: https://user-images.githubusercontent.com/83188832/132614623-372133b5-068d-481d-adc5-9dd38f7c30f3.mp4`
 
-![ecommerce-backend walkthrough-video](https://user-images.githubusercontent.com/83188832/132614623-372133b5-068d-481d-adc5-9dd38f7c30f3.mp4)
+<https://user-images.githubusercontent.com/83188832/132614623-372133b5-068d-481d-adc5-9dd38f7c30f3.mp4>
 
 To install the needed dependencies, use the following command:
 
